@@ -1,0 +1,40 @@
+{
+  "name": "leagends-of-heroes",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "bunyan": "^1.8.12",
+    "discord.js": "^11.2.1",
+    "discordie": "^0.11.0",
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "lodash": "^4.17.4",
+    "log": "^1.4.0",
+    "nconf": "^0.9.1",
+    "node-opus": "^0.2.7",
+    "path": "^0.12.7",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0",
+    "chalk": "^2.3.0",
+    "moment": "^2.19.3"
+  },
+  "babel": {
+    "presets": [
+      "env"
+    ]
+  }
+}
