@@ -1,6 +1,8 @@
 {
   "name": "leagends-of-heroes",
   "version": "0.1.0",
+  "description": "A Discord.js bot for Legend of Heroes",
+  "main": "index.js",
   "private": true,
   "dependencies": {
     "bluebird": "^3.5.1",
@@ -36,5 +38,8 @@
     "presets": [
       "env"
     ]
-  }
+  },
+  "contributors": [
+    "hect1c"
+  ]
 }
